@@ -1,2 +1,2 @@
 # Software-Testing-Fundamentals
-Create a small presentation with the sample test use case after reading the PDF content provided here
+Create a small presentation with the sample use case after reading the PDF content provided here
